@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Spunk Productions
+Shanu - Plasma - Dharmesh - 
 
 
 
